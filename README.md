@@ -1,4 +1,4 @@
-# My_CUTNRUN_scripts_for_SLURM
+# My scripts for analyzing CUT&RUN data
 These are the scripts I used for analyzing ChIP-seq and CUT&amp;RUN datasets on our server using SLURM
 
 Important note:
